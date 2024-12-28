@@ -1,0 +1,7 @@
+com.pc.survivorbird.android-pngs-0 C:\Users\pc\mobileProjects\SurvivorBird\android\build\generated\res\pngs\debug
+com.pc.survivorbird.android-resValues-1 C:\Users\pc\mobileProjects\SurvivorBird\android\build\generated\res\resValues\debug
+com.pc.survivorbird.android-packageDebugResources-2 C:\Users\pc\mobileProjects\SurvivorBird\android\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.pc.survivorbird.android-packageDebugResources-3 C:\Users\pc\mobileProjects\SurvivorBird\android\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.pc.survivorbird.android-debug-4 C:\Users\pc\mobileProjects\SurvivorBird\android\build\intermediates\merged_res\debug\mergeDebugResources
+com.pc.survivorbird.android-android-5 C:\Users\pc\mobileProjects\SurvivorBird\android\res
+com.pc.survivorbird.android-debug-6 C:\Users\pc\mobileProjects\SurvivorBird\android\src\debug\res

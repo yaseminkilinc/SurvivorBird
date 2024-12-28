@@ -1,0 +1,3 @@
+bee.png
+bird.png
+mountain.png

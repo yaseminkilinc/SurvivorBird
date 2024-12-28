@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.pc.survivorbird.android-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\pc\\mobileProjects\\SurvivorBird\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "2",
+                        "startOffsets": "53",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "50",
+                        "endOffsets": "157"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\mobileProjects\\SurvivorBird\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "476"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "162",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "622"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\pc\\mobileProjects\\SurvivorBird\\android\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
